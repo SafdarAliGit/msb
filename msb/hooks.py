@@ -5,6 +5,9 @@ app_description = "for msb"
 app_email = "safdar211@gmail.com"
 app_license = "mit"
 
+
+doctype_js = {"Purchase Invoice" : "public/js/purchase_invoice.js"}
+
 # Apps
 # ------------------
 
